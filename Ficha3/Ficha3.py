@@ -34,6 +34,7 @@ y = float(input("Insira outro valor "))
 print (Calculadora(x,y,z))
 '''
 # Exercicio 2-- CASES
+'''
 operacoes_validas = ["/", "-", "*", "+"]
 
 z = input("Insira a função (/,-,*,+): ")
@@ -62,7 +63,7 @@ else:
 
   print(Calculadora(x, y, z))
 
-
+'''
 #Exercicio 3
 
 '''
@@ -130,6 +131,7 @@ while True:
 
 # Exercicio 5
 '''
+
 while True:
     print("\n--- CALCULO DE AREAS ---")
     print("1. Área do círculo")
@@ -157,3 +159,9 @@ while True:
         case _: # Caso o utilizador digite qualquer outra coisa
             print("Opção inválida! Tente novamente.")
 '''
+# Exercicio 4-V2
+
+conversores.apresentar_menu(0)
+
+# Exercicio 5-V2   
+areas.menu_areas(0)
