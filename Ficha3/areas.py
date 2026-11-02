@@ -1,11 +1,48 @@
 import math
 def area_circulo(raio):
+    '''
+    Calcula a área de um círculo.
+
+    Args:
+        raio (float): O raio do círculo.
+
+    Returns:
+        float: A área do círculo.
+
+    '''
+
+
     return math.pi*raio**2
 
 def area_triangulo(base,altura):
+    
+    '''
+        Calcula a área de um triângulo.
+    
+        Args:
+            base (float): A base do triângulo.
+            altura (float): A altura do triângulo.
+    
+        Returns:
+            float: A área do círculo.
+    
+    '''
+
     return (base*altura)/2
 
 def area_retangulo(comprimento,largura):
+
+    '''
+        Calcula a área de um retângulo.
+
+        Args:
+            comprimento (float): O comprimento do retângulo.
+            largura (float): A largura do retângulo.
+        Returns:
+            float: A área do retângulo.
+
+    '''
+
     return comprimento*largura
 
 def menu_areas(insira):
