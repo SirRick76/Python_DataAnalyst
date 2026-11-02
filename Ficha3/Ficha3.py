@@ -2,6 +2,7 @@ import conversores
 import areas
 import math
 
+'''
 # Exercicio 1
 
 def calcule_Perimetro(lado):
@@ -118,9 +119,10 @@ while True:
             valor=float(input("Insira o valor que quer converter:"))
             print(f"{conversores.converter_moeda(valor,taxa):.2f}")
         case 3:
+            nome_moeda=input("Insira o nome da moeda:")
             taxa=float(input("Insira o valor da taxa de conversão:"))
             valor=float(input("Insira o valor que quer converter:"))
-            print(f"{conversores.converter_moeda(valor,taxa):.2f}")    
+            print(f"{conversores.converter_moeda(valor,taxa):.2f}, {nome_moeda}")    
         case 4:
             print("A sair do programa...")
             break
@@ -158,7 +160,7 @@ while True:
                     
         case _: # Caso o utilizador digite qualquer outra coisa
             print("Opção inválida! Tente novamente.")
-
+'''
 # Exercicio 4-V2
 
 conversores.apresentar_menu(0)

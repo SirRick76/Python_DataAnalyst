@@ -20,9 +20,10 @@ def apresentar_menu(insira):
                 valor=float(input("Insira o valor que quer converter:"))
                 print(f"{converter_moeda(valor,taxa):.2f}")
             case 3:
+                nome_moeda=input("Insira o nome da moeda:")
                 taxa=float(input("Insira o valor da taxa de conversão:"))
                 valor=float(input("Insira o valor que quer converter:"))
-                print(f"{converter_moeda(valor,taxa):.2f}")    
+                print(f"{converter_moeda(valor,taxa):.2f}, {nome_moeda}")    
             case 4:
                 print("A sair do programa...")
                 break
