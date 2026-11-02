@@ -3,17 +3,17 @@ import areas
 import math
 
 # Exercicio 1
-'''
+
 def calcule_Perimetro(lado):
     perimetro=lado * 4
     return perimetro
 
 lado=int(input("Insira o tamanho do lado"))
 print(calcule_Perimetro(lado))
-'''
+
 
 # Exercicio 2 -- IFS
-'''
+
 def Calculadora(x,y,z):
     if z =="*":
         return x*y
@@ -32,9 +32,9 @@ z=input("Insira a função(/,-,*,+)")
 x = float(input("Insira um valor "))
 y = float(input("Insira outro valor "))
 print (Calculadora(x,y,z))
-'''
+
 # Exercicio 2-- CASES
-'''
+
 operacoes_validas = ["/", "-", "*", "+"]
 
 z = input("Insira a função (/,-,*,+): ")
@@ -63,10 +63,10 @@ else:
 
   print(Calculadora(x, y, z))
 
-'''
+
 #Exercicio 3
 
-'''
+
 nome=str(input("Insira o nome do aluno: "))
 def mediaAluno(nota1,nota2,nota3):
         media=(nota1+nota2+nota3)/3
@@ -96,9 +96,9 @@ def classificacao_Aluno(media):
     else:
         return "Reprovado"
 print(f"O aluno {nome}  tem {media_final:.2f}  de media e encontra-se {classificacao_Aluno(media_final)}")
-'''
+
 # Exercicio 4
-'''
+
 
 while True:
     print("\n--- CONVERSOR DE MOEDAS ---")
@@ -127,10 +127,10 @@ while True:
                     
         case _: # Caso o utilizador digite qualquer outra coisa
             print("Opção inválida! Tente novamente.")
-'''
+
 
 # Exercicio 5
-'''
+
 
 while True:
     print("\n--- CALCULO DE AREAS ---")
@@ -158,7 +158,7 @@ while True:
                     
         case _: # Caso o utilizador digite qualquer outra coisa
             print("Opção inválida! Tente novamente.")
-'''
+
 # Exercicio 4-V2
 
 conversores.apresentar_menu(0)
