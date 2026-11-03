@@ -1,0 +1,49 @@
+RELATÓRIO DE DESPESAS
+========================================
+
+Número total de despesas: 50
+
+DESPESAS SUPERIORES A 100 €
+----------------------------------------
+ID: 3 | Eletricidade | 118.30 €
+ID: 6 | Material de formação | 132.75 €
+ID: 10 | Renda | 650.00 €
+ID: 12 | Manutenção automóvel | 185.90 €
+ID: 18 | Compras de supermercado | 112.40 €
+ID: 20 | Reparação canalização | 240.00 €
+ID: 22 | Exames médicos | 156.00 €
+ID: 26 | Seguro habitação | 210.50 €
+ID: 29 | Viagem de fim de semana | 325.00 €
+ID: 31 | Seguro de saúde | 128.00 €
+ID: 34 | Pneus automóvel | 410.00 €
+ID: 36 | Reparação computador | 175.00 €
+ID: 38 | Equipamento desportivo | 143.60 €
+ID: 42 | Eletrodoméstico | 289.99 €
+ID: 43 | Compras de supermercado | 121.15 €
+ID: 44 | Material informático | 199.90 €
+ID: 46 | Telemóvel | 239.00 €
+ID: 49 | Mobiliário | 520.00 €
+ID: 50 | Compras de supermercado | 104.35 €
+
+Número de despesas superiores a 100 €: 19
+
+Total das despesas: 6110.88 €
+Média das despesas: 122.22 €
+
+DESPESA MAIS ELEVADA
+Descrição: Renda
+Valor: 650.00 €
+
+DESPESA MAIS REDUZIDA
+Descrição: Estacionamento
+Valor: 12.50 €
+
+DESPESAS POR CATEGORIA
+----------------------------------------
+Alimentação: 733.15 €
+Transportes: 910.10 €
+Habitação: 2280.59 €
+Saúde: 454.75 €
+Educação: 548.65 €
+Lazer: 684.70 €
+Comunicações: 498.94 €

@@ -1,0 +1,4 @@
+Nome;Idade;Nota
+Ana;18;15.5
+Bruno;22;13.0
+Carla;20;17.5

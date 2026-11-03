@@ -1,0 +1,51 @@
+ID;Data;Categoria;Descricao;Valor_EUR;Metodo_Pagamento
+1;2026-01-03;Alimentação;Compras de supermercado;85.4;Cartão
+2;2026-01-04;Transportes;Combustível;62.5;Cartão
+3;2026-01-05;Habitação;Eletricidade;118.3;Débito direto
+4;2026-01-06;Alimentação;Almoço de trabalho;14.8;Cartão
+5;2026-01-07;Saúde;Consulta médica;45.0;Cartão
+6;2026-01-08;Educação;Material de formação;132.75;Transferência
+7;2026-01-09;Transportes;Passe mensal;40.0;Cartão
+8;2026-01-10;Habitação;Água;28.6;Débito direto
+9;2026-01-11;Lazer;Bilhetes de cinema;22.0;Cartão
+10;2026-01-12;Habitação;Renda;650.0;Transferência
+11;2026-01-13;Alimentação;Compras de supermercado;73.25;Cartão
+12;2026-01-14;Transportes;Manutenção automóvel;185.9;Cartão
+13;2026-01-15;Comunicações;Internet e telemóvel;49.99;Débito direto
+14;2026-01-16;Saúde;Medicamentos;18.45;Cartão
+15;2026-01-17;Lazer;Jantar;56.7;Cartão
+16;2026-01-18;Habitação;Gás;76.2;Débito direto
+17;2026-01-19;Educação;Inscrição em workshop;95.0;Transferência
+18;2026-01-20;Alimentação;Compras de supermercado;112.4;Cartão
+19;2026-01-21;Transportes;Estacionamento;12.5;Numerário
+20;2026-01-22;Habitação;Reparação canalização;240.0;Transferência
+21;2026-01-23;Lazer;Subscrição anual;89.9;Cartão
+22;2026-01-24;Saúde;Exames médicos;156.0;Cartão
+23;2026-01-25;Alimentação;Almoço;17.6;Cartão
+24;2026-01-26;Transportes;Combustível;78.3;Cartão
+25;2026-01-27;Comunicações;Acessórios informáticos;34.95;Cartão
+26;2026-01-28;Habitação;Seguro habitação;210.5;Débito direto
+27;2026-01-29;Educação;Livro técnico;42.0;Cartão
+28;2026-01-30;Alimentação;Compras de supermercado;96.8;Cartão
+29;2026-01-31;Lazer;Viagem de fim de semana;325.0;Transferência
+30;2026-02-01;Transportes;Táxi;19.4;Cartão
+31;2026-02-02;Saúde;Seguro de saúde;128.0;Débito direto
+32;2026-02-03;Habitação;Condomínio;55.0;Transferência
+33;2026-02-04;Alimentação;Restaurante;38.5;Cartão
+34;2026-02-05;Transportes;Pneus automóvel;410.0;Cartão
+35;2026-02-06;Educação;Curso online;79.0;Cartão
+36;2026-02-07;Comunicações;Reparação computador;175.0;Cartão
+37;2026-02-08;Alimentação;Compras de supermercado;68.9;Cartão
+38;2026-02-09;Lazer;Equipamento desportivo;143.6;Cartão
+39;2026-02-10;Habitação;Pequenas reparações;92.0;Numerário
+40;2026-02-11;Saúde;Medicamentos;27.3;Cartão
+41;2026-02-12;Transportes;Combustível;64.7;Cartão
+42;2026-02-13;Habitação;Eletrodoméstico;289.99;Cartão
+43;2026-02-14;Alimentação;Compras de supermercado;121.15;Cartão
+44;2026-02-15;Educação;Material informático;199.9;Transferência
+45;2026-02-16;Lazer;Espetáculo;47.5;Cartão
+46;2026-02-17;Comunicações;Telemóvel;239.0;Cartão
+47;2026-02-18;Saúde;Consulta de especialidade;80.0;Cartão
+48;2026-02-19;Transportes;Inspeção automóvel;36.8;Cartão
+49;2026-02-20;Habitação;Mobiliário;520.0;Transferência
+50;2026-02-21;Alimentação;Compras de supermercado;104.35;Cartão
