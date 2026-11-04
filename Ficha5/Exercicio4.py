@@ -97,8 +97,12 @@ def calculos_totaldespesas():
         return(f"Contagem de despesas:{contagem_despesas}")
                        
 def escrever_ficheiro_relatorio():
-    with open("relatorio_despesas.txt", "x", encoding="utf-8") as ficheiro:
-        pass
+    try:
+        with open("relatorio_despesas.txt", "x", encoding="utf-8") as ficheiro:
+            pass
+    except FileExistsError:
+        print("O ficheiro já existe!")
+        
 def adicionarinfo_ficheiro_relatorio():
     with open("relatorio_despesas.txt", "w", encoding="utf-8") as ficheiro:
         ficheiro.write(str(calculos_totaldespesas()) + "\n")

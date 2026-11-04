@@ -51,5 +51,5 @@ from Exercicio4 import *
 #Alinea 4
 #analise_categoria()
 #Alinea 5
-#escrever_ficheiro_relatorio()
+escrever_ficheiro_relatorio()
 adicionarinfo_ficheiro_relatorio()
