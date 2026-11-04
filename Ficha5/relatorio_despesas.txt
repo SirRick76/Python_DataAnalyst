@@ -1,0 +1,39 @@
+Contagem de despesas:50
+
+Valor total das despesas: 6110.88
+Valor médio das despesas: 122.22 
+Despesa de valor mais elevado: 650.00
+Despesa de valor mais reduzido: 12.50
+
+Despesas superiores a 100:
+Id: 3, Data: 2026-01-05, Categoria: Habitação, Descrição: Eletricidade, Despesas: 118.30
+Id: 6, Data: 2026-01-08, Categoria: Educação, Descrição: Material de formação, Despesas: 132.75
+Id: 10, Data: 2026-01-12, Categoria: Habitação, Descrição: Renda, Despesas: 650.00
+Id: 12, Data: 2026-01-14, Categoria: Transportes, Descrição: Manutenção automóvel, Despesas: 185.90
+Id: 18, Data: 2026-01-20, Categoria: Alimentação, Descrição: Compras de supermercado, Despesas: 112.40
+Id: 20, Data: 2026-01-22, Categoria: Habitação, Descrição: Reparação canalização, Despesas: 240.00
+Id: 22, Data: 2026-01-24, Categoria: Saúde, Descrição: Exames médicos, Despesas: 156.00
+Id: 26, Data: 2026-01-28, Categoria: Habitação, Descrição: Seguro habitação, Despesas: 210.50
+Id: 29, Data: 2026-01-31, Categoria: Lazer, Descrição: Viagem de fim de semana, Despesas: 325.00
+Id: 31, Data: 2026-02-02, Categoria: Saúde, Descrição: Seguro de saúde, Despesas: 128.00
+Id: 34, Data: 2026-02-05, Categoria: Transportes, Descrição: Pneus automóvel, Despesas: 410.00
+Id: 36, Data: 2026-02-07, Categoria: Comunicações, Descrição: Reparação computador, Despesas: 175.00
+Id: 38, Data: 2026-02-09, Categoria: Lazer, Descrição: Equipamento desportivo, Despesas: 143.60
+Id: 42, Data: 2026-02-13, Categoria: Habitação, Descrição: Eletrodoméstico, Despesas: 289.99
+Id: 43, Data: 2026-02-14, Categoria: Alimentação, Descrição: Compras de supermercado, Despesas: 121.15
+Id: 44, Data: 2026-02-15, Categoria: Educação, Descrição: Material informático, Despesas: 199.90
+Id: 46, Data: 2026-02-17, Categoria: Comunicações, Descrição: Telemóvel, Despesas: 239.00
+Id: 49, Data: 2026-02-20, Categoria: Habitação, Descrição: Mobiliário, Despesas: 520.00
+Id: 50, Data: 2026-02-21, Categoria: Alimentação, Descrição: Compras de supermercado, Despesas: 104.35
+
+Quantidade de despesas superiores a 100: 19
+
+Total de despesas por categoria:
+Alimentação: 733.15 €
+Transportes: 910.10 €
+Habitação: 2280.59 €
+Saúde: 454.75 €
+Educação: 548.65 €
+Lazer: 684.70 €
+Comunicações: 498.94 €
+

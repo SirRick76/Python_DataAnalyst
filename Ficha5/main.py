@@ -41,6 +41,15 @@ from Exercicio4 import *
 #Exercicio 4
 #Parte A
 #1)
-ler_ficheiro_despesascsv()
+#ler_ficheiro_despesascsv()
 #2)
-ler_ficheiro_despesascsvreader()
+#ler_ficheiro_despesascsvreader()
+#Alinea 2
+#despesas_superior_100()
+#Alinea 3
+#calculos_estatisticos()
+#Alinea 4
+#analise_categoria()
+#Alinea 5
+#escrever_ficheiro_relatorio()
+adicionarinfo_ficheiro_relatorio()
