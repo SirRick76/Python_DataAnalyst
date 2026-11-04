@@ -2,6 +2,7 @@ import csv
 from Exercicio1 import *
 from Exercicio2 import *
 from Exercicio3 import *
+from Exercicio3csv import *
 from Exercicio4 import *
 
 #Exercicio 1
@@ -51,5 +52,14 @@ from Exercicio4 import *
 #Alinea 4
 #analise_categoria()
 #Alinea 5
-escrever_ficheiro_relatorio()
-adicionarinfo_ficheiro_relatorio()
+#escrever_ficheiro_relatorio()
+#adicionarinfo_ficheiro_relatorio()
+#Exercicio 3-csv
+#a)
+ler_ficheiro_csv1()
+#b)
+ler_nome_ficheiro_csv1()
+#c)
+media_idade_csv1()
+#d)
+adicionar_registo_csv1()
