@@ -8,10 +8,16 @@ class AnaliseVendas:
         return sum(self.vendas)
     def calcular_media(self):
         return sum(self.vendas)/len(self.vendas)
+    def maximo_venda(self):
+        return max(self.vendas)
+    def minimo_venda(self):
+        return min(self.vendas)
     def apresentar_resultados(self):
         total = self.calcular_total()
         media = self.calcular_media()
-        return f"{self.loja} | {self.periodo} | Total: {total}€ | Média: {media:.2f}€"
+        maximo=self.maximo_venda()
+        minimo=self.minimo_venda()
+        return f"{self.loja} | {self.periodo} | Total: {total} € | Média: {media:.2f} € |Valor maximo: {maximo} € |Valor minimo: {minimo} €"
 
 vendaBragaJan= AnaliseVendas("Braga","Janeiro",[450,800,320,650])
 vendaPortoJan= AnaliseVendas("Porto","Janeiro",[900,750,400,600])
@@ -32,7 +38,9 @@ class AnaliseVendasComObjetivo(AnaliseVendas):
         total = self.calcular_total()
         media = self.calcular_media()
         objetivos=self.verificar_objetivo()
-        return f"{self.loja} | {self.periodo} | Total: {total}€ | Média: {media:.2f}€| Objetivo: {objetivos}"
+        maximo=self.maximo_venda()
+        minimo=self.minimo_venda()
+        return f"{self.loja} | {self.periodo} | Total: {total}€ | Média: {media:.2f}€ |Valor maximo: {maximo} € |Valor minimo: {minimo} € Objetivo: {objetivos}"
 
 vendaPortoJan = AnaliseVendasComObjetivo("Porto","Janeiro",[900,750,400,600],2600)
 vendaGuimaraesFev = AnaliseVendasComObjetivo("Guimarães", "Fevereiro",[700,950,500,800],3000)

@@ -26,3 +26,5 @@ cliente3.apresentar()
 #Exercicio 2-Heranças
 print(vendaPortoJan.apresentar_resultados())
 print(vendaGuimaraesFev.apresentar_resultados())
+print(vendaPortoJan.maximo_venda())
+print(vendaPortoJan.minimo_venda())
