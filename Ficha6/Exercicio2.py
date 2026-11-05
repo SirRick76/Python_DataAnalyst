@@ -16,6 +16,7 @@ class AnaliseVendas:
 vendaBragaJan= AnaliseVendas("Braga","Janeiro",[450,800,320,650])
 vendaPortoJan= AnaliseVendas("Porto","Janeiro",[900,750,400,600])
 vendaBragaFev= AnaliseVendas("Braga","Fevereiro",[600,700,500,850])
+vendaGuimaraesFev = AnaliseVendas("Guimarães", "Fevereiro",[700,950,500,800])
 
 class AnaliseVendasComObjetivo(AnaliseVendas):
     def __init__(self, loja, periodo, vendas,objetivo):

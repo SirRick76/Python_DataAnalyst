@@ -16,7 +16,9 @@ print(cliente1.nome,cliente1.email,cliente1.telefone,cliente1.empresa)
 print(vendaBragaJan.apresentar_resultados())
 print(vendaBragaFev.apresentar_resultados())
 print(vendaPortoJan.apresentar_resultados())
+print(vendaGuimaraesFev.apresentar_resultados())
 '''
+
 #Exercicio 1-Heranças
 cliente1.apresentar()
 cliente2.apresentar()
